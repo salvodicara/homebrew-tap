@@ -1,8 +1,8 @@
 class GitRecap < Formula
   desc "Reconstruct a work journal from your git history"
   homepage "https://github.com/salvodicara/git-recap"
-  url "https://github.com/salvodicara/git-recap/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "1dad0df7bb7106c235608ea262bd3698af6c550ced332e81f70101fd291f9b99"
+  url "https://github.com/salvodicara/git-recap/archive/refs/tags/v0.2.3.tar.gz"
+  sha256 "b4f45a71965d85d2cb28877c35542fd46f23ae4c00ddc843ef4ecca8e9d0ea6a"
   license "MIT"
   head "https://github.com/salvodicara/git-recap.git", branch: "main"
 
